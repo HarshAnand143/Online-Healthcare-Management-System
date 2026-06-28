@@ -20,7 +20,7 @@ Built with **Java Swing** (desktop UI), **JDBC / MySQL** (database), DAO pattern
 
 **Frontend**
 
-* Java Swing, AWT
+* Java Swing, AWT , and
 * JDatePicker (date selection)
 * FlatLaf (modern look & feel)
 * JSP, HTML, CSS
