@@ -54,7 +54,6 @@ Built with **Java Swing** (desktop UI), **JDBC / MySQL** (database), DAO pattern
 *  Secure password hashing using bcrypt
 *  JDBC prepared statements (prevents SQL injection)
 *  DAO layer and model classes for clean separation
-*  
 ---
 
 ## 🚀 Servlets Used
